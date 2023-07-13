@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258864042746",
+    "project_id": "eziline-project",
+    "storage_bucket": "eziline-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258864042746:android:c51381ca77f2a8d697af43",
+        "android_client_info": {
+          "package_name": "com.example.eziline_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258864042746-c1mcaiqigaui4ulklof8lpbi9nv85nsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9WTLwjRvnvmIo4hWbPChvXvHvIGnLLxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258864042746-c1mcaiqigaui4ulklof8lpbi9nv85nsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
