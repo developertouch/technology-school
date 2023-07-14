@@ -43,6 +43,8 @@ dependencies:
   firebase_database: ^10.2.3
   fluttertoast:
   quickalert:
+  carousel_slider: ^4.2.1
+  animated_text_kit: ^4.2.2
 
 dev_dependencies:
   flutter_test:
